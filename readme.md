@@ -1,6 +1,6 @@
 # Chicken Dance Hubot Script
 
-A Hubot script that displays the various chicken dances of Arrested Development characters
+A Hubot script that displays the various chicken dances of Arrested Development characters.
 
 Usage
 -----

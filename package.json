@@ -1,22 +1,26 @@
 {
-  "name": "hubot-example",
-  "description": "An example script pacakage for Hubot",
+  "name": "hubot-chicken-dance",
+  "description": "A Hubot script that displays the various chicken dances of Arrested Development characters.",
   "version": "1.0.0",
-  "author": "Tom Bell <tomb@tomb.io>",
+  "author": "Morgan Wigmanich <okize123@gmail.com>",
   "license": "MIT",
 
   "keywords": [
     "hubot",
-    "hubot-scripts"
+    "hubot-scripts",
+    "chicken",
+    "dance",
+    "arrested",
+    "development"
   ],
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-example.git"
+    "url": "git://github.com/okize/hubot-chicken-dance.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-example/issues"
+    "url": "https://github.com/okize/hubot-chicken-dance/issues"
   },
 
   "dependencies": {
