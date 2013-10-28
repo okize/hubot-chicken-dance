@@ -6,6 +6,8 @@ Displays one of the various chicken dances of Arrested Development characters
 
 ## Usage
 
+In a campfire room, type:
+
     hubot chicken dance
 
 ## Installation
