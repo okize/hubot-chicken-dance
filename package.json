@@ -1,10 +1,13 @@
 {
   "name": "hubot-chicken-dance",
-  "description": "A Hubot script that displays the various chicken dances of Arrested Development characters.",
   "version": "1.0.0",
-  "author": "Morgan Wigmanich <okize123@gmail.com>",
-  "license": "MIT",
-
+  "description": "Displays one of the various chicken dances of Arrested Development characters",
+  "main": "index.coffee",
+  "author": {
+    "name": "Morgan Wigmanich",
+    "email": "okize123@gmail.com",
+    "url": "https://github.com/okize"
+  },
   "keywords": [
     "hubot",
     "hubot-scripts",
@@ -13,30 +16,26 @@
     "arrested",
     "development"
   ],
-
+  "license": "MIT",
+  "scripts": {
+    "test": "script/test"
+  },
+  "homepage": "https://github.com/okize/hubot-chicken-dance/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/okize/hubot-chicken-dance.git"
+    "url": "https://github.com/okize/hubot-chicken-dance.git"
   },
-
   "bugs": {
     "url": "https://github.com/okize/hubot-chicken-dance/issues"
   },
-
   "dependencies": {
+    "hubot": ">= 2.4.0",
     "coffee-script": "~1.6"
   },
-
   "devDependencies": {
     "mocha": "*",
     "chai": "*",
     "sinon-chai": "*",
     "sinon": "*"
-  },
-
-  "main": "index.coffee",
-
-  "scripts": {
-    "test": "script/test"
   }
 }
