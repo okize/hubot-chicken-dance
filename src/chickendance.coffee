@@ -18,7 +18,7 @@
 
 module.exports = (robot) ->
 
-  robot.respond /chicken dance( me)? (.+)/i, (msg) ->
+  robot.respond /chicken dance/i, (msg) ->
     msg.send msg.random images
 
 images = [
