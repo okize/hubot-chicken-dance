@@ -22,12 +22,15 @@ module.exports = (robot) ->
     msg.send msg.random images
 
 images = [
-  'http://25.media.tumblr.com/tumblr_m2sts9O1BI1r7vuvuo1_250.gif',
-  'http://assets0.ordienetworks.com/images/GifGuide/dancing/AD-Dance.gif',
-  'http://media.tumblr.com/tumblr_lj6zc4WwBL1qzwuo3.gif',
-  'http://media.tumblr.com/tumblr_lj6zd2mwbo1qzwuo3.gif',
-  'http://24.media.tumblr.com/tumblr_m2sts9O1BI1r7vuvuo2_250.gif',
-  'http://24.media.tumblr.com/tumblr_m2sts9O1BI1r7vuvuo3_250.gif',
-  'http://25.media.tumblr.com/tumblr_m2sts9O1BI1r7vuvuo4_250.gif',
-  'http://pixel.nymag.com/imgs/daily/vulture/2013/03/07/07-lucille-chicken-dance.o.jpg/a_560x0.jpg'
+  'http://gifti.me/i/ByNdVc3oQ.gif',
+  'http://gifti.me/i/9mPDixUjeN.gif',
+  'http://gifti.me/i/H7gV.gif',
+  'http://gifti.me/i/KcyqQCi.gif',
+  'http://gifti.me/i/26zUV.gif',
+  'http://gifti.me/i/ZHs9k.gif',
+  'http://gifti.me/i/KugIhe3SJm.gif',
+  'http://gifti.me/i/K8kYRmZ3.gif',
+  'http://gifti.me/i/fjrE1V.gif',
+  'http://gifti.me/i/6besOA.gif',
+  'http://gifti.me/i/7QArMx1J.gif'
 ]
