@@ -4,8 +4,8 @@ chai.use require 'sinon-chai'
 
 expect = chai.expect
 
-describe 'Business Cat:', ->
-  businesscat_module = require('../src/businesscat')
+describe 'Chicken dance:', ->
+  businesscat_module = require('../src/chickendance')
 
   beforeEach ->
     @robot =
@@ -16,7 +16,7 @@ describe 'Business Cat:', ->
       random: sinon.spy()
     @businesscat_module = businesscat_module(@robot)
 
-  describe 'summon a business cat', ->
+  describe 'display chicken dance gif', ->
 
     it 'registers a respond listener', ->
       expect(@robot.respond).to.have.been.calledWith(/chicken dance/)
