@@ -1,7 +1,7 @@
 {
   "name": "hubot-chicken-dance",
-  "version": "1.0.2",
-  "description": "Displays one of the various chicken dances of Arrested Development characters",
+  "version": "1.0.3",
+  "description": "Hubot script that displays one of the various chicken dances of Arrested Development characters",
   "main": "index.coffee",
   "author": {
     "name": "Morgan Wigmanich",
