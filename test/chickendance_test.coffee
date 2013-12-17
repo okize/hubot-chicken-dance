@@ -16,7 +16,7 @@ describe 'Chicken dance:', ->
       random: sinon.spy()
     @chickendance_module = chickendance_module(@robot)
 
-  describe 'display chicken dance gif', ->
+  describe 'hubot chicken dance', ->
 
-    it 'registers a respond listener', ->
-      expect(@robot.respond).to.have.been.calledWith(/chicken dance/)
+    it 'should register a respond listener', ->
+      expect(@robot.respond).to.have.been.calledWith(/hubot chicken dance/)
