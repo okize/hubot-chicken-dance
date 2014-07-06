@@ -18,7 +18,8 @@
   ],
   "license": "MIT",
   "scripts": {
-    "test": "script/test"
+    "test": "script/test",
+    "start": "node ./test/server.js"
   },
   "homepage": "https://github.com/okize/hubot-chicken-dance/",
   "repository": {
@@ -29,12 +30,12 @@
     "url": "https://github.com/okize/hubot-chicken-dance/issues"
   },
   "dependencies": {
-    "coffee-script": "~1.6"
+    "coffee-script": "1.6.x"
   },
   "devDependencies": {
-    "mocha": "*",
-    "chai": "*",
-    "sinon-chai": "*",
-    "sinon": "*"
+    "mocha": "1.20.x",
+    "chai": "1.9.x",
+    "sinon-chai": "2.5.x",
+    "sinon": "1.8.x"
   }
 }
