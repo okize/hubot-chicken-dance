@@ -1,6 +1,6 @@
 {
   "name": "hubot-chicken-dance",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Hubot script that displays one of the various chicken dances of Arrested Development characters",
   "main": "index.coffee",
   "author": {
