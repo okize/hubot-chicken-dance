@@ -1,4 +1,7 @@
-[![NPM version](https://badge.fury.io/js/hubot-chicken-dance.png)](http://badge.fury.io/js/hubot-chicken-dance) [![NPM version](https://david-dm.org/okize/hubot-chicken-dance.png)](https://david-dm.org/okize/hubot-chicken-dance) [![Build Status](https://secure.travis-ci.org/okize/hubot-chicken-dance.png)](http://travis-ci.org/okize/hubot-chicken-dance)
+[![NPM version](http://img.shields.io/npm/v/hubot-chicken-dance.svg?style=flat)](https://www.npmjs.org/package/hubot-chicken-dance)
+[![Build Status](http://img.shields.io/travis/okize/hubot-chicken-dance.svg?style=flat)](https://travis-ci.org/okize/hubot-chicken-dance)
+[![Dependency Status](http://img.shields.io/david/okize/hubot-chicken-dance.svg?style=flat)](https://david-dm.org/okize/hubot-chicken-dance)
+[![Downloads](http://img.shields.io/npm/dm/hubot-chicken-dance.svg?style=flat)](https://www.npmjs.org/package/hubot-chicken-dance)
 
 # Hubot: Chicken Dance
 
