@@ -30,7 +30,7 @@
     "url": "https://github.com/okize/hubot-chicken-dance/issues"
   },
   "dependencies": {
-    "coffee-script": "1.6.x"
+    "coffee-script": "1.9.x"
   },
   "devDependencies": {
     "mocha": "1.20.x",
